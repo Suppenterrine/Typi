@@ -1,4 +1,10 @@
 # Typi
+
+> Typi – Eine leistungsstarke und flexible App zur Analyse und Suche von MBTI-Typen und kognitiven Funktionen. Unterstützt Mustererkennung, Wildcards, Gegentyp-Finder und detaillierte Filter für Stacks und Positionen. Ideal für Typologie-Enthusiasten, Studierende und Entwickler.
+
+<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Suppenterrine/Typi">Typi</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Suppenterrine">Lukas Baumert</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
+
+
 Saßt du schonmal mit deinem Caipi am Strand und hattest das dringende Bedürfnis schnell herauszufinden wie die Kognitiven Funktionen deines MBTI-Typen aussehen? Oder was der gegenteilige Typ zu deinem ist?
 Und stell dir bloß vor, du könntest mal schnell filtern, welche Typen, welche Funktionen teilen...
 Hast du ein Glück Typi gefunden zu haben. Genau für diese Momente ist es konzipiert.
@@ -6,9 +12,9 @@ Hast du ein Glück Typi gefunden zu haben. Genau für diese Momente ist es konzi
 Für Wen ist die App? Alle. Jeden der Spaß an Typologie hat oder gerne eine schnelle Alternative hat, statt sich durch Millionen-Websites zu wühlen.
 
 ## Was und Warum?
-Gute Frage.
-Was: Kleine fixe Konsolen-App um sich schnell durch alle MBTI-Typen zu arbeiten, Zusammenhänge zu finden, oder sich einen Überblick zu verschaffen.
-Warum: Aus persönlichem Bedarf. Und weil es ein spaßiges Projekt war eine relativ simple Anforderung völlig zu überkomplexisieren und etwas über Schnelligkeit und interessante Algorithmen zu lernen.
+Gute Frage. <br>
+**Was**: Kleine fixe Konsolen-App um sich schnell durch alle MBTI-Typen zu arbeiten, Zusammenhänge zu finden, oder sich einen Überblick zu verschaffen. <br>
+**Warum**: Aus persönlichem Bedarf. Und weil es ein spaßiges Projekt war eine relativ simple Anforderung völlig zu überkomplexisieren und etwas über Schnelligkeit und interessante Algorithmen zu lernen.<br>
 
 ---
 
@@ -118,9 +124,3 @@ Dank **chalk** hebt Typi wichtige Informationen hervor:
 Typi ist unter der **Creative Commons BY-NC 4.0** lizenziert. Das heißt:  
 - Private und educational Nutzung ist erlaubt.  
 - Verkauf und kommerzielle Nutzung sind nicht gestattet.  
-
----
-
-> Typi – Eine leistungsstarke und flexible App zur Analyse und Suche von MBTI-Typen und kognitiven Funktionen. Unterstützt Mustererkennung, Wildcards, Gegentyp-Finder und detaillierte Filter für Stacks und Positionen. Ideal für Typologie-Enthusiasten, Studierende und Entwickler.
-
-<p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/Suppenterrine/Typi">Typi</a> by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://github.com/Suppenterrine">Lukas Baumert</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1" alt=""></a></p>
