@@ -119,6 +119,9 @@ Typi ist unter der **Creative Commons BY-NC 4.0** lizenziert. Das heißt:
 - Private und educational Nutzung ist erlaubt.  
 - Verkauf und kommerzielle Nutzung sind nicht gestattet.  
 
+### Todos
+- [ ] Add GPT Prompts with filter concept
+- [ ] Add explanations for cognitive functions
 
 --- 
 
