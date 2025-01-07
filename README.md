@@ -6,12 +6,12 @@ Saßt du schonmal mit deinem Caipi am Strand und hattest das dringende Bedürfni
 Und stell dir bloß vor, du könntest mal schnell filtern, welche Typen, welche Funktionen teilen...
 Hast du ein Glück Typi gefunden zu haben. Genau für diese Momente ist es konzipiert.
 
-Für Wen ist die App? Alle. Jeden der Spaß an Typologie hat oder gerne eine schnelle Alternative hat, statt sich durch Millionen-Websites zu wühlen.
+Für wen ist die App? Alle. Jeden der Spaß an Typologie hat oder gerne eine schnelle Alternative hat, statt sich durch Millionen-Websites zu wühlen.
 
 ## Was und Warum?
 Gute Frage. <br>
 **Was**: Kleine fixe Konsolen-App um sich schnell durch alle MBTI-Typen zu arbeiten, Zusammenhänge zu finden, oder sich einen Überblick zu verschaffen. <br>
-**Warum**: Aus persönlichem Bedarf. Und weil es ein spaßiges Projekt war eine relativ simple Anforderung völlig zu überkomplexisieren und etwas über Schnelligkeit und interessante Algorithmen zu lernen.<br>
+**Warum**: Aus persönlichem Bedarf. Und weil es ein spaßiges Projekt war eine relativ simple Anforderung völlig zu überkomplexisisieren und etwas über Schnelligkeit und interessante Algorithmen zu lernen.<br>
 
 ---
 
