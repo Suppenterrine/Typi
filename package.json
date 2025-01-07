@@ -1,24 +1,39 @@
 {
-  "name": "typi",
+  "name": "typologe",
   "version": "0.1.5",
   "type": "module",
   "author": "Lukas Baumert",
   "license": "SEE LICENSE IN LICENSE",
   "main": "main.mjs",
-  "description": "Typi – Eine leistungsstarke und flexible App zur Analyse und Suche von MBTI-Typen und kognitiven Funktionen. Unterstützt Mustererkennung, Wildcards, Gegentyp-Finder und detaillierte Filter für Stacks und Positionen. Ideal für Typologie-Enthusiasten, Studierende und Entwickler.",
+  "description": "Typologe – Eine leistungsstarke und flexible App zur Analyse und Suche von MBTI-Typen und kognitiven Funktionen. Unterstützt Mustererkennung, Wildcards, Gegentyp-Finder und detaillierte Filter für Stacks und Positionen. Ideal für Typologie-Enthusiasten, Studierende und Entwickler.",
   "bin": {
-    "typi": "./main.mjs"
+    "typologe": "./main.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suppenterrine/Typi.git"
+  },
+  "homepage": "https://github.com/Suppenterrine",
+  "bugs": {
+    "url": "https://github.com/Suppenterrine/Typi/issues"
   },
   "scripts": {
     "start": "node main.mjs"
   },
   "keywords": [
     "mbti",
-    "cognitivefunctions"
+    "cognitivefunctions",
+    "typology",
+    "personality",
+    "kmp-search",
+    "stack-analysis"
   ],
   "dependencies": {
     "chalk": "^5.4.1",
     "yargs": "^17.7.2"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
 }
