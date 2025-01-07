@@ -4,7 +4,7 @@
 
 Saßt du schonmal mit deinem Caipi am Strand und hattest das dringende Bedürfnis schnell herauszufinden wie die Kognitiven Funktionen deines MBTI-Typen aussehen? Oder was der gegenteilige Typ zu deinem ist?
 Und stell dir bloß vor, du könntest mal schnell filtern, welche Typen, welche Funktionen teilen...
-Hast du ein Glück Typi gefunden zu haben. Genau für diese Momente ist es konzipiert.
+Hast du ein Glück **Typi** gefunden zu haben. Genau für diese Momente ist es konzipiert.
 
 Für wen ist die App? Alle. Jeden der Spaß an Typologie hat oder gerne eine schnelle Alternative hat, statt sich durch Millionen-Websites zu wühlen.
 
@@ -47,7 +47,7 @@ node main.js
 ---
 
 ## 💡 **Wie benutzen?**
-Typi macht es dir einfach, genau das zu finden, was du suchst. Hier sind ein paar Beispiele:
+**Typi** macht es dir einfach, genau das zu finden, was du suchst. Hier sind ein paar Beispiele:
 
 ### **1. MBTI-Typ anzeigen**
 ```powershell
@@ -110,10 +110,7 @@ typi -m ?ST? -f Fi -s 3
 ---
 
 ## 🖌️ **Farbige Ausgabe**
-Dank **chalk** hebt Typi wichtige Informationen hervor:  
-- **MBTI-Typen**: Gelb unterlegt  
-- **Funktionen und Muster**: Leuchtend rot  
-- **Slot-Namen**: Klar und grün
+Dank **[chalk](https://www.npmjs.com/package/chalk)** hebt **Typi** wichtige Informationen hervor.
 
 ---
 
